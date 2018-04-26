@@ -1,0 +1,60 @@
+/*------------------ css reset -------------------------*/
+
+* {
+    margin: 0;
+    font-size: 100%;
+}
+
+body {
+    line-height: 1.5em;
+    background-color:white;
+    font-size: 1em;
+    font-family: "bebas-neue", sans-serif;
+    color: black;
+    display: flex;
+    
+}
+
+.content {
+  margin: 2em 0;
+  margin-left: 7em;
+  width: 50vw;
+  height: 100vh;
+  border: 5px solid;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+    margin-top: .1em;
+    text-align: left;
+    font-size: 4em;
+    line-height: 1em;
+    margin-left: -5em;
+    color: white;    
+}
+
+h1 {
+    padding: .3em;
+    background-color: black;
+    text-align: left;
+    
+}
+
+.make {
+    
+    align-self: left;
+
+}
+
+.today {
+    
+    align-self: left;
+}
+
+.amazing {
+    
+    align-self: left;
+}
