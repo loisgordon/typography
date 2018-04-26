@@ -40,21 +40,33 @@ h1 {
     padding: .3em;
     background-color: black;
     text-align: left;
+    letter-spacing: .1em;
     
 }
 
 .make {
     
     align-self: left;
+    margin-right: 2.5em;
 
 }
 
 .today {
     
     align-self: left;
+     margin-right: 1.85em;
 }
 
 .amazing {
     
     align-self: left;
+}
+
+
+.main {
+    
+    align-content: left;
+    padding-top: 18em;
+    padding-left: 7em;
+    
 }
