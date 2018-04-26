@@ -27,16 +27,20 @@ body {
   align-items: center;
 }
 
+
+
+
 .text {
     margin-top: .1em;
     text-align: left;
     font-size: 4em;
     line-height: 1em;
-    margin-left: -5em;
+    margin-left: -4em;
     color: white;    
 }
 
 h1 {
+    
     padding: .3em;
     background-color: black;
     text-align: left;
@@ -58,3 +62,16 @@ h1 {
     
     align-self: left;
 }
+
+.main {
+    
+    margin-top: 15em;
+}
+
+
+
+
+
+
+
+
